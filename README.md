@@ -1,4 +1,7 @@
 Artin AI 🤖
+## Demo
+
+![Artin AI Demo](assets/ArtinAI-demo.gif)
 
 Artin AI is a personal project that I’m actively working on. It is an AI-powered Telegram bot built with Python, with several useful features added over time.
 
